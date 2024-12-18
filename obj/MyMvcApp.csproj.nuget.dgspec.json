@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\azureuser\\MyMvcApp\\MyMvcApp.csproj": {}
+    "/workspaces/MyMvcApp-Contact-Database-Application/MyMvcApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\azureuser\\MyMvcApp\\MyMvcApp.csproj": {
+    "/workspaces/MyMvcApp-Contact-Database-Application/MyMvcApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\azureuser\\MyMvcApp\\MyMvcApp.csproj",
+        "projectUniqueName": "/workspaces/MyMvcApp-Contact-Database-Application/MyMvcApp.csproj",
         "projectName": "MyMvcApp",
-        "projectPath": "C:\\Users\\azureuser\\MyMvcApp\\MyMvcApp.csproj",
-        "packagesPath": "C:\\Users\\azureuser\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\azureuser\\MyMvcApp\\obj\\",
+        "projectPath": "/workspaces/MyMvcApp-Contact-Database-Application/MyMvcApp.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/MyMvcApp-Contact-Database-Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\azureuser\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -63,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
